@@ -1,4 +1,4 @@
-# Project Title: Clothing Shop Report and Key Insights 
+# Project Title: Retail Apparel Store Data Analysis Report and Key Insights 
 
 ## Overview
 
